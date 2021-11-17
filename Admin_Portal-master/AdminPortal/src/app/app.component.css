@@ -1,0 +1,9 @@
+body {
+	color: black;
+	background: rgb(160,82,45,0.9);
+    font-family: 'Roboto', sans-serif;
+    background-size: cover; 
+    width: 100vw;
+    height: 100vh;
+}
+
